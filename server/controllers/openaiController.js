@@ -13,7 +13,7 @@ exports.summaryController = async (req, res) => {
       model: "text-davinci-003",
       prompt: `Summarize this \n${text}`,
       max_tokens: 500,
-      temperature: 0.5,
+      temperature: 0,
     });
     if (data) {
       if (data.choices[0].text) {
