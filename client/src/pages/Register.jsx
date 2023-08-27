@@ -28,7 +28,7 @@ const Register = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      await axios.post("http://127.0.0.1:8080/api/v1/auth/register", {
+      await axios.post("/api/v1/auth/register", {
         username,
         email,
         password
