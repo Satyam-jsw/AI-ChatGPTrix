@@ -1,5 +1,12 @@
 # ChatGPT-clone-MERN
 
+# Project ScreenShot
+![1chat](https://github.com/Satyam-jsw/AI-ChatGPTrix/assets/96405804/46412f5f-153d-4b1d-9834-f3d30136ade8)
+![2chat](https://github.com/Satyam-jsw/AI-ChatGPTrix/assets/96405804/2b07919d-7923-4710-8b65-6828edad9459)
+![3chat](https://github.com/Satyam-jsw/AI-ChatGPTrix/assets/96405804/a661baf6-5b33-4252-8235-190058ef410f)
+![4chat](https://github.com/Satyam-jsw/AI-ChatGPTrix/assets/96405804/94843320-1423-427f-8e8b-4090d998357e)
+
+
 # Update
   - ***There won't be any response as the OpenAI API's free trial got expired on 1 June 2023.***
 
