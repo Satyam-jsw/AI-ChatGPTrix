@@ -34,3 +34,5 @@ MERN Web-App with auth.
 1.  To run the application, first move to **server** folder using command `cd server` <br> Then use command `npm run dev` to start the application.
 
 ### Give it a star if helpful!
+
+<h3 align="center">&copy; 2022 Satyam Jaiswal</h3>
