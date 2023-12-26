@@ -1,5 +1,5 @@
 const { createProxyMiddleware } = require('http-proxy-middleware');
-const url = 'https://ai-chatgptrix.onrender.com'
+const url = 'https://vercel.com/satyamjsw/ai-chat-gp-trix-az8n/A7nB3eBKtyqeYAaio2EBGiF3wDBq'
 
 // const url="http://127.0.0.1:8080";
 
