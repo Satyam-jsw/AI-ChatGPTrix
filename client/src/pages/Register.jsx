@@ -28,7 +28,7 @@ const Register = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      await axios.post("/api/v1/auth/register", {
+      await axios.post("https://ai-chat-gp-trix-az8n.vercel.app/api/v1/auth/register", {
         username,
         email,
         password
